@@ -1,2 +1,1 @@
-This repository contains practice problems on data structures and algorithms
-implemented using Python. The focus is on logic building and interview preparation.
+This repository contains Python implementations of fundamental data structures and algorithms created as part of continuous problem-solving practice. It includes hands-on implementations of arrays, strings, searching techniques, and basic algorithmic patterns with a strong focus on logic building, clean code, and interview-oriented thinking. The goal of this repository is to strengthen core DSA fundamentals using Python through consistent practice and real problem examples.
