@@ -1,0 +1,24 @@
+## Data Structures & Algorithms Practice (Python)
+
+This repository contains clean and beginner-friendly implementations of core
+Data Structures and Algorithms using Python. The goal is to build strong
+problem-solving skills and understand fundamental computer science concepts.
+
+### Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Recursion
+
+Each folder contains simple implementations written with clarity, focusing on
+logic rather than shortcuts or frameworks.
+
+### Tech Stack
+- Python
+
+### Purpose
+This repository is part of my preparation for software engineering and
+product-based roles, with emphasis on data structures, algorithms, and backend
+fundamentals.
